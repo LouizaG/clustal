@@ -25,12 +25,12 @@ conda install mamba -n base -c conda-forge
 Create conda environment and install dependendies:
 
 ```bash
-mamba env create -f binder/environment.yml
+mamba env create -f envs/environment.yml
 ```
 
 Load conda environment:
 
 ```bash
-conda activate 3DGB
+conda activate lgalou
 ```
 
