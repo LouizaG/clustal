@@ -25,7 +25,7 @@ conda install mamba -n base -c conda-forge
 Create conda environment and install dependendies:
 
 ```bash
-mamba env create -f envs/environment.yml
+mamba env create -f CLUSTAL/envs/environment.yml
 ```
 
 Load conda environment:
